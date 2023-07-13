@@ -4,7 +4,7 @@ This assessment shows the basic minting and burning of an NFT token. The main go
 Solidity is a computer language used to build smart contracts for the Ethereum network. This application serves as an accessible introduction to Solidity programming and can be used as a launching pad for more challenging projects in the future.
 # Getting Started
 Remix is an online Solidity IDE that you may use to run this application. To get started, go to https://remix.ethereum.org/.
-When you are on the Remix website, click the "+" icon in the left sidebar to start a new file. The file should be saved with a.sol extension (such as uly.sol). The code below should be copied and pasted into the file:
+When you are on the Remix website, click the "+" icon in the left sidebar to start a new file. The file should be saved with a.sol extension (such as my.sol). The code below should be copied and pasted into the file:
 // SPDX-License-Identifier: MIT
 
 pragma solidity 0.8.18;
@@ -35,9 +35,9 @@ contract MyToken {
 }
 
 
-Click the "Solidity Compiler" tab in the left-hand sidebar to compile the code. Click the "Compile leb.sol" button after making sure the "Compiler" option is set to "0.8.18" (or another compatible version).
+Click the "Solidity Compiler" tab in the left-hand sidebar to compile the code. Click the "Compile my.sol" button after making sure the "Compiler" option is set to "0.8.18" (or another compatible version).
 
-Go to "Deploy and run transactions" after the code has been compiled. You will then see the contract; simply choose "leb.sol" and press the deploy button.
+Go to "Deploy and run transactions" after the code has been compiled. You will then see the contract; simply choose "my.sol" and press the deploy button.
 
 
 Once the token has been deployed, click "Deploy Contracts" in the section at the bottom. You can see the "Account Address" copied in the example above, and you can see the "burn" and "mint" in the deploy contracts.
