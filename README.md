@@ -4,7 +4,7 @@ This assessment shows the basic minting and burning of an NFT token. The main go
 Solidity is a computer language used to build smart contracts for the Ethereum network. This application serves as an accessible introduction to Solidity programming and can be used as a launching pad for more challenging projects in the future.
 # Getting Started
 Remix is an online Solidity IDE that you may use to run this application. To get started, go to https://remix.ethereum.org/.
-When you are on the Remix website, click the "+" icon in the left sidebar to start a new file. The file should be saved with a.sol extension (such as leb.sol). The code below should be copied and pasted into the file:
+When you are on the Remix website, click the "+" icon in the left sidebar to start a new file. The file should be saved with a.sol extension (such as uly.sol). The code below should be copied and pasted into the file:
 // SPDX-License-Identifier: MIT
 
 pragma solidity 0.8.18;
